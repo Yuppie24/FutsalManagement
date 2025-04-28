@@ -33,7 +33,7 @@ The goal was to simplify the manual futsal booking process and make it easier fo
 
 ### Frontend:
 - React + Vite
-- Tailwind CSS
+- Typescript
 - Context API
 
 ### Other:
